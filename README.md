@@ -1,2 +1,5 @@
 # Auto_Complete
-auto-complete feature implementation using R-way Trie data structue
+Auto-complete feature implementation using R-way Trie data structure.
+words.txt contains top 10000 most frequently used words.
+To use the feature clone the project, then compile A_Complete.java and finally execute A_Complete.
+
